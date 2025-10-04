@@ -19,7 +19,10 @@ Implementation of *Asymmetric Region Denoising and Rotation Equivariant for Imag
     pip install albumentations==0.5.2 shapely opencv-python tqdm e2cnn mmcv
 ```
 
+- If you have other environment question, you can send email to me: surourou2019@email.szu.edu.cn
+
 ### Datasets and weights
+
 - download DENDI、LDRS、NYU、SDRW [sym_datasets](https://pan.baidu.com/s/1m1iKqmHeVzMInStrwGvatQ?pwd=3ew2)
 - download trained [weights](https://pan.baidu.com/s/1ssS9YYIM57gvg45Zfq4kyg?pwd=bpuu): ARDNet(ours), pre-trained ReResNet50(D8)
 
