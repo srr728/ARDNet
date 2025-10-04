@@ -10,7 +10,12 @@ Dongfu Yin, Rourou Su*, Cong Zhao, Fei Yu
 
 Implementation of *Asymmetric Region Denoising and Rotation Equivariant for Image Reflection Symmetry Detection*.
 
+### Overview
+
+![Overview of our proposed ARDNet](figure/overview.png)
+
 ### Environment
+
 ```
     conda create --name ARDNet python=3.7
     conda activate ARDNet
