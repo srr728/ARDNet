@@ -1,0 +1,1 @@
+- Download trained [weights](https://pan.baidu.com/s/1ssS9YYIM57gvg45Zfq4kyg?pwd=bpuu): ARDNet(ours), pre-trained ReResNet50(D8)
